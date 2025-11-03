@@ -2,9 +2,9 @@
 A simple maze solver / generator made using Python
 
 ## Controls
-- `<g>`: generate a maze using Prim's Algorith
+- `<g>`: generate a maze using Prim's Algorithm
 - `<c>`: clear the grid
-- `<p>`: find a path either using A* or Dijkstra's
+- `<p>`: find a path either using A* or Dijkstra's Algorithm
 - `<s>`: set start point
 - `<e>`: set end point
 - `<a>`: switch to A*
